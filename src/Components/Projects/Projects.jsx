@@ -29,28 +29,25 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://i.ibb.co/V9C8Jm9/rockstar-games.png"
-                    alt="Rockstar Games"
+                    src="src/assets/ecommerce.png"
+                    alt="Clothes Website"
                   />
                 </div>
               </div>
               <div className="project_information">
-                <h2>Rockstar Games</h2>
+                <h2>Ecommerce</h2>
                 <p>
-                  Rockstar games is a video game company who develops lots of
-                  games like GTA, Red Dead, and many more. we build clone of
-                  their store website.
-                </p>
+                Leveraging my skills as a front-end developer, I contributed to the creation of a robust and user-friendly e-commerce website alongside a team of dedicated back-end developers.                </p>
                 <div>
                   <SiNodedotjs />
                   <SiExpress />
                   <SiMongodb />
                   <FaReact />
-                  <SiMaterialui />
+                  
                 </div>
                 <div>
                   <a
-                    href="https://store-rockstargames.vercel.app/"
+                    href="https://scintillating-douhua-58ec86.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -59,7 +56,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/aman-638/store.rockstartgames.com-Frontend-Clone"
+                    href="https://github.com/luisdiazrodri/clothes"
                     target="_blank"
                     rel="noreferrer"
                   >

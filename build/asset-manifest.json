@@ -1,25 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f46f4de.chunk.css",
-    "main.js": "/static/js/main.c690c5c6.chunk.js",
-    "main.js.map": "/static/js/main.c690c5c6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8691016b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8691016b.js.map",
-    "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
-    "static/js/2.499959fc.chunk.js": "/static/js/2.499959fc.chunk.js",
-    "static/js/2.499959fc.chunk.js.map": "/static/js/2.499959fc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
-    "static/css/main.1f46f4de.chunk.css.map": "/static/css/main.1f46f4de.chunk.css.map",
-    "static/js/2.499959fc.chunk.js.LICENSE.txt": "/static/js/2.499959fc.chunk.js.LICENSE.txt",
-    "static/media/Photo_fw14_056.79956555.png": "/static/media/Photo_fw14_056.79956555.png",
-    "static/media/S-logo.95c79f61.png": "/static/media/S-logo.95c79f61.png"
+    "main.css": "/thedeveloper.io/static/css/main.d1eacf6e.css",
+    "main.js": "/thedeveloper.io/static/js/main.f67b4d55.js",
+    "static/media/Logol.png": "/thedeveloper.io/static/media/Logol.f0213bbcaafe2cc3e2ad.png",
+    "static/media/Profile.jpeg": "/thedeveloper.io/static/media/Profile.e342bbba24683bf53d4a.jpeg",
+    "index.html": "/thedeveloper.io/index.html",
+    "main.d1eacf6e.css.map": "/thedeveloper.io/static/css/main.d1eacf6e.css.map",
+    "main.f67b4d55.js.map": "/thedeveloper.io/static/js/main.f67b4d55.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8691016b.js",
-    "static/css/2.95d02a1e.chunk.css",
-    "static/js/2.499959fc.chunk.js",
-    "static/css/main.1f46f4de.chunk.css",
-    "static/js/main.c690c5c6.chunk.js"
+    "static/css/main.d1eacf6e.css",
+    "static/js/main.f67b4d55.js"
   ]
 }
