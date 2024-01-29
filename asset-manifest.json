@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thedeveloper.io/static/css/main.d1eacf6e.css",
+    "main.js": "/thedeveloper.io/static/js/main.f67b4d55.js",
+    "static/media/Logol.png": "/thedeveloper.io/static/media/Logol.f0213bbcaafe2cc3e2ad.png",
+    "static/media/Profile.jpeg": "/thedeveloper.io/static/media/Profile.e342bbba24683bf53d4a.jpeg",
+    "index.html": "/thedeveloper.io/index.html",
+    "main.d1eacf6e.css.map": "/thedeveloper.io/static/css/main.d1eacf6e.css.map",
+    "main.f67b4d55.js.map": "/thedeveloper.io/static/js/main.f67b4d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1eacf6e.css",
+    "static/js/main.f67b4d55.js"
+  ]
+}
